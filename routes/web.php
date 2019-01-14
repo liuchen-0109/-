@@ -16,5 +16,5 @@ Route::get('/', function () {
 });
 
 Route::get('/test',function(){
-	return 'this is a test web2';
+	return 'this is a test web3';
 });
